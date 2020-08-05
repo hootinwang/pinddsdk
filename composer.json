@@ -1,0 +1,26 @@
+{
+    "name": "hootinwang/pinddsdk",
+    "description": "拼多多OpenAPI-SDK",
+    "license": "MIT",
+    "time": "2020-08-05",
+    "homepage": "http://www.hootinwang.com",
+    "keywords": [
+        "拼多多",
+        "拼多多sdk",
+        "pinduoduo"
+    ],
+    "authors": [
+        {
+            "name": "HootinWang",
+            "email": "hootinwang@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pinduoduo\\": "src/"
+        },
+        "files": [
+        ]
+    }
+}
