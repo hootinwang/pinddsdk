@@ -1,6 +1,7 @@
 {
     "name": "hootinwang/pinddsdk",
     "description": "拼多多OpenAPI-SDK",
+    "type": "library",
     "license": "MIT",
     "time": "2020-08-05",
     "homepage": "http://www.hootinwang.com",
