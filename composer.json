@@ -15,7 +15,9 @@
             "email": "hootinwang@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
     "autoload": {
         "psr-4": {
             "Pinduoduo\\": "src/"

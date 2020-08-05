@@ -9,6 +9,6 @@ namespace Pinduoduo\Exceptions;
 class PinduoduoException extends \Exception
 {
     function __construct($message) {
-        parent::__construct($message);
+        parent::__construct('拼多多SDK- ' . $message);
     }
 }
